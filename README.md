@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/bashirhanafi/)
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi) -->
 
-Hello, my name is Muhammad Bashir Hanafi and I am a undergraduate student at [Lambung Mangkurat University](https://ulm.ac.id/) majoring in Computer Science. My technology stack involves Java, Python, MySQL, JavaScript, and HTML 5. Besides programming, I have an immense interest in reading and watching movies.
+Hello, my name is Muhammad Bashir Hanafi and I am a undergraduate student at [Lambung Mangkurat University](https://ulm.ac.id/) majoring in Computer Science. My technology stack involves Java, Python, MySQL, JavaScript, and HTML5. Besides programming, I have an immense interest in reading and watching movies.
 
 - 🔭 I’m currently computer science student at [Lambung Mangkurat University](https://ulm.ac.id/)
 - 💬 Brainstorm with me over tech and data
