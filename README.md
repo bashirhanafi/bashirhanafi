@@ -1,5 +1,11 @@
 ### Hi there 👋, I am [Bashir Hanafi](https://github.com/bashirhanafi)! 😁
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bashirhanafi)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://medium.com/@bashirhanafi/)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi) -->
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/bashirhanafi/)
+<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi) -->
+
 Hello, my name is Muhammad Bashir Hanafi and I am a undergraduate student at [Lambung Mangkurat University](https://ulm.ac.id/) majoring in Computer Science. My technology stack involves Java, Python, MySQL, JavaScript, and HTML 5. Besides programming, I have an immense interest in reading and watching movies.
 
 - 🔭 I’m currently computer science student at [Lambung Mangkurat University](https://ulm.ac.id/)
