@@ -11,7 +11,7 @@ Hello, my name is Muhammad Bashir Hanafi and I am a undergraduate student at [La
 - 💬 Brainstorm with me over tech and data
 - 🤔 Interested in Artificial Intelligence and Software Engineering
 - 📫 How to reach me: muhammadbashirhanafi@gmail.com
-- 😄 Pronouns: Programmer/He/Him
+- 😄 Pronouns: He/Him
 
 **Languages and Tools:** 
 
