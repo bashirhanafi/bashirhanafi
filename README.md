@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bashirhanafi)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://medium.com/@bashirhanafi/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/bashirhanafi/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bashirhanafi)
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi) -->
 
 Hello, my name is Muhammad Bashir Hanafi and I am a undergraduate student at [Lambung Mangkurat University](https://ulm.ac.id/) majoring in Computer Science. My technology stack involves Java, Python, MySQL, JavaScript, and HTML5. Besides programming, I have an immense interest in reading and watching movies.
