@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Bashir Hanafi](https://github.com/bashirhanafi)! 😁
+### Hi there 👋, I'm [Bashir Hanafi](https://github.com/bashirhanafi)! 😁
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bashirhanafi)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bashirhanafi/)
@@ -6,12 +6,12 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bashirhanafi)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bashirhanafi/)
 
-Hello, my name is Muhammad Bashir Hanafi and I am a undergraduate student at [Lambung Mangkurat University](https://ulm.ac.id/) majoring in Computer Science. My technology stack involves Java, Python, MySQL, JavaScript, and HTML5. Besides programming, I have an immense interest in reading and watching movies.
+Hello, my name is Muhammad Bashir Hanafi and I am an undergraduate student at [Lambung Mangkurat University](https://ulm.ac.id/) majoring in Computer Science. My technology stack involves Java, Python, MySQL, JavaScript, HTML5, CSS, etc. Besides programming, I have an immense interest in reading and watching movies.
 
 - 🔭 I’m currently computer science student at [Lambung Mangkurat University](https://ulm.ac.id/)
 - 💬 Brainstorm with me over programming and data
 - 🤔 Interested in Artificial Intelligence and Software Engineering
-- 📫 How to reach me: muhammadbashirhanafi@gmail.com
+- 📫 How to reach me: contact.bashirhanafi@gmail.com
 - 😄 Pronouns: He/Him
 
 **Languages and Tools:** 
